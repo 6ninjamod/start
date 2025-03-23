@@ -12,7 +12,7 @@ attack_history = []  # Store attack logs
 TELEGRAM_BOT_TOKEN = '8058370192:AAH0LsS7vjnD2PcakoCKXMuHNns2lSys7Do'  # Replace with your bot token
 ADMIN_USER_ID = 1240179115
 MONGO_URI = "mongodb+srv://donmourya248:Santosh700@redhat.drq43.mongodb.net/RedHat?retryWrites=true&w=majority&appName=RedHat"
-DB_NAME = "ninja"
+DB_NAME = "ninjagit"
 COLLECTION_NAME = "users"
 ATTACK_TIME_LIMIT = 300  # Maximum attack duration in seconds
 COINS_REQUIRED_PER_ATTACK = 5  # Coins required for an attack
