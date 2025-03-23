@@ -1,0 +1,8 @@
+{
+    "initial_parameters": 2,
+    "initial_threads": "900",
+    "initial_packets": "9",
+    "initial_binary": "niraj",
+    "max_attack_time": 240,
+    "attack_cooldown": 300
+}
