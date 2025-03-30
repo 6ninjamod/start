@@ -1,0 +1,7 @@
+apt update
+apt install python3-pip
+sudo apt install gcc
+gcc ninja.c -o bgmi -pthread
+chmod +x *
+pip install telebot python-telegram-bot pytz motor pymongo aiohttp
+nohup python3 ninja.py
