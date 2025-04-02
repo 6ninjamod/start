@@ -1,3 +1,5 @@
+git clone https://github.com/6ninjamod/start.git
+cd start
 apt update
 apt install python3-pip
 sudo apt install gcc
