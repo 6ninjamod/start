@@ -9,12 +9,12 @@ attack_in_progress = False
 current_attack = None  # Store details of the current attack
 attack_history = []  # Store attack logs
 
-TELEGRAM_BOT_TOKEN = '7564327801:AAEE0IpjiofAv5xO9spf53ie9c5C-HKzAg0'  # Replace with your bot token
+TELEGRAM_BOT_TOKEN = '8058370192:AAE_8iryiZYo8yUsQxDzGoB1REKmPwog2J4'  # Replace with your bot token
 ADMIN_USER_ID = 1240179115
 MONGO_URI = "mongodb+srv://donmourya248:Santosh700@redhat.drq43.mongodb.net/RedHat?retryWrites=true&w=majority&appName=RedHat"
 DB_NAME = "ninjagit"
 COLLECTION_NAME = "users"
-ATTACK_TIME_LIMIT = 300  # Maximum attack duration in seconds
+ATTACK_TIME_LIMIT = 600  # Maximum attack duration in seconds
 COINS_REQUIRED_PER_ATTACK = 5  # Coins required for an attack
 
 # MongoDB setup
